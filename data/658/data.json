@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "date": "2022-01-02",
+            "combination": "10-25-01-35-04-58",
+            "prize": {
+                "currency": "PHP",
+                "amount": 54346532.80
+            },
+            "winnerCount": 0
+        },
+        {
+            "date": "2022-01-04",
+            "combination": "43-26-46-52-32-14",
+            "prize": {
+                "currency": "PHP",
+                "amount": 57293039.80
+            },
+            "winnerCount": 0
+        },
+        {
+            "date": "2022-01-04",
+            "combination": "43-26-46-52-32-14",
+            "prize": {
+                "currency": "PHP",
+                "amount": 57293039.80
+            },
+            "winnerCount": 0
+        },
+    ]
+}
