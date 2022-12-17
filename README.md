@@ -98,13 +98,13 @@ Pull requests and stars are always welcome. For additional data requests, please
 
 2. Clone the repository
 
-    ```
+    ```bash
     $ git clone https://github.com/<your-username>/pcso-lotto.git
     ```
 
 3. To keep your forked repository in sync with the upstream repository:
 
-    ```
+    ```bash
     $ git remote add upstream https://github.com/opendata-ph/pcso-lotto.git
     $ git fetch upstream
     $ git pull upstream main
@@ -119,7 +119,7 @@ Pull requests and stars are always welcome. For additional data requests, please
    - For minor fixes such as typos
       - chore-<description>
   
-    ```
+    ```bash
     # Branches are only a sample
     $ git checkout -b issue-1-memory-leak-fix
     $ git checkout -b feat-backend-implementation
@@ -128,7 +128,7 @@ Pull requests and stars are always welcome. For additional data requests, please
 
 5. After changes has been made, add it to the staging area:
 
-    ```
+    ```bash
     $ git add -A
     $ git add <file>
     $ git add .
@@ -136,7 +136,7 @@ Pull requests and stars are always welcome. For additional data requests, please
 
 6. Commit the staged changes, and push it the branch created earlier:
 
-    ```
+    ```bash
     $ git commit -m <message>
     $ git push origin <branch-name>
     ```
