@@ -1,0 +1,574 @@
+{
+    "data": [
+        {
+            "date": "2022-01-06",
+            "category": "6/42",
+            "prize": {
+                "combination": "23-01-09-24-12-07",
+                "amount": 42945708.2,
+                "currency": "PHP"
+            },
+            "winnerCount": 4
+        },
+        {
+            "date": "2022-01-14",
+            "category": "6/45",
+            "prize": {
+                "combination": "24-31-20-17-13-18",
+                "amount": 20212102,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-01-15",
+            "category": "6/55",
+            "prize": {
+                "combination": "39-29-09-21-19-20",
+                "amount": 65991571,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-01-16",
+            "category": "6/49",
+            "prize": {
+                "combination": "02-05-04-31-01-46",
+                "amount": 142679606.4,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-01-30",
+            "category": "6/58",
+            "prize": {
+                "combination": "22-02-14-30-10-35",
+                "amount": 49500000,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-02-05",
+            "category": "6/42",
+            "prize": {
+                "combination": "30-20-15-09-23-22",
+                "amount": 49813434.4,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-02-06",
+            "category": "6/49",
+            "prize": {
+                "combination": "36-29-35-16-03-17",
+                "amount": 29073809.2,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-02-18",
+            "category": "6/45",
+            "prize": {
+                "combination": "31-30-06-04-29-16",
+                "amount": 62756225.8,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-02-24",
+            "category": "6/42",
+            "prize": {
+                "combination": "12-29-15-03-06-20",
+                "amount": 28851800.8,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-02-25",
+            "category": "6/45",
+            "prize": {
+                "combination": "06-22-23-41-36-21",
+                "amount": 10304636.6,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-03-02",
+            "category": "6/45",
+            "prize": {
+                "combination": "02-30-45-42-27-17",
+                "amount": 8910000,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-03-05",
+            "category": "6/42",
+            "prize": {
+                "combination": "18-34-33-39-11-36",
+                "amount": 12537017.2,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-03-14",
+            "category": "6/55",
+            "prize": {
+                "combination": "09-17-45-39-35-15",
+                "amount": 98551582,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-03-20",
+            "category": "6/58",
+            "prize": {
+                "combination": "29-05-03-11-08-42",
+                "amount": 79699584.8,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-03-20",
+            "category": "6/49",
+            "prize": {
+                "combination": "09-04-06-17-12-02",
+                "amount": 67803235.4,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-03-26",
+            "category": "6/42",
+            "prize": {
+                "combination": "25-41-35-39-14-26",
+                "amount": 31209194,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-03-28",
+            "category": "6/45",
+            "prize": {
+                "combination": "07-25-08-03-12-05",
+                "amount": 42282132.8,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-04-20",
+            "category": "6/45",
+            "prize": {
+                "combination": "42-05-10-30-27-19",
+                "amount": 33070560.4,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-04-25",
+            "category": "6/45",
+            "prize": {
+                "combination": "36-17-29-28-12-05",
+                "amount": 8910000,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-05-03",
+            "category": "6/42",
+            "prize": {
+                "combination": "07-22-19-20-40-10",
+                "amount": 51412148,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-05-10",
+            "category": "6/49",
+            "prize": {
+                "combination": "44-05-17-48-13-43",
+                "amount": 71360581,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-05-24",
+            "category": "6/58",
+            "prize": {
+                "combination": "20-22-09-54-06-19",
+                "amount": 100064568,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-05-31",
+            "category": "6/42",
+            "prize": {
+                "combination": "25-20-29-07-21-02",
+                "amount": 43912343.8,
+                "currency": "PHP"
+            },
+            "winnerCount": 3
+        },
+        {
+            "date": "2022-06-09",
+            "category": "6/42",
+            "prize": {
+                "combination": "39-33-18-01-24-36",
+                "amount": 12998501,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-06-16",
+            "category": "6/42",
+            "prize": {
+                "combination": "33-31-13-41-25-18",
+                "amount": 9423997.8,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-06-17",
+            "category": "6/45",
+            "prize": {
+                "combination": "10-12-02-27-03-18",
+                "amount": 103269281.6,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-06-18",
+            "category": "6/42",
+            "prize": {
+                "combination": "08-15-11-23-36-33",
+                "amount": 5940000,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-06-23",
+            "category": "6/49",
+            "prize": {
+                "combination": "36-07-14-21-20-42",
+                "amount": 73777794.4,
+                "currency": "PHP"
+            },
+            "winnerCount": 2
+        },
+        {
+            "date": "2022-06-24",
+            "category": "6/45",
+            "prize": {
+                "combination": "28-10-16-03-25-13",
+                "amount": 8910000,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-07-07",
+            "category": "6/42",
+            "prize": {
+                "combination": "09-10-42-08-13-41",
+                "amount": 34838186.8,
+                "currency": "PHP"
+            },
+            "winnerCount": 2
+        },
+        {
+            "date": "2022-07-09",
+            "category": "6/42",
+            "prize": {
+                "combination": "27-18-26-13-02-03",
+                "amount": 5940000,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-07-09",
+            "category": "6/55",
+            "prize": {
+                "combination": "02-18-49-07-19-47",
+                "amount": 401186804.8,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-07-18",
+            "category": "6/45",
+            "prize": {
+                "combination": "06-17-40-45-39-13",
+                "amount": 53920694.2,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-07-23",
+            "category": "6/42",
+            "prize": {
+                "combination": "17-11-23-21-05-25",
+                "amount": 23061318,
+                "currency": "PHP"
+            },
+            "winnerCount": 2
+        },
+        {
+            "date": "2022-07-28",
+            "category": "6/49",
+            "prize": {
+                "combination": "23-03-02-43-30-07",
+                "amount": 67672225,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-08-02",
+            "category": "6/49",
+            "prize": {
+                "combination": "28-45-09-12-21-19",
+                "amount": 15840000,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-08-05",
+            "category": "6/58",
+            "prize": {
+                "combination": "04-46-58-20-34-28",
+                "amount": 163365304.4,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-08-11",
+            "category": "6/42",
+            "prize": {
+                "combination": "42-18-26-35-02-19",
+                "amount": 32075959.8,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-08-13",
+            "category": "6/42",
+            "prize": {
+                "combination": "26-12-20-24-39-41",
+                "amount": 5940000,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-08-22",
+            "category": "6/45",
+            "prize": {
+                "combination": "20-33-30-10-08-34",
+                "amount": 72205456.8,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-09-15",
+            "category": "6/42",
+            "prize": {
+                "combination": "32-23-41-04-25-21",
+                "amount": 56654977.2,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-09-23",
+            "category": "6/45",
+            "prize": {
+                "combination": "34-24-07-44-21-38",
+                "amount": 58796739.6,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-10-01",
+            "category": "6/55",
+            "prize": {
+                "combination": "09-45-36-27-18-54",
+                "amount": 236091188.4,
+                "currency": "PHP"
+            },
+            "winnerCount": 433
+        },
+        {
+            "date": "2022-10-03",
+            "category": "6/45",
+            "prize": {
+                "combination": "45-04-38-44-21-36",
+                "amount": 14985585.8,
+                "currency": "PHP"
+            },
+            "winnerCount": 2
+        },
+        {
+            "date": "2022-10-08",
+            "category": "6/42",
+            "prize": {
+                "combination": "39-42-23-33-32-12",
+                "amount": 38200752.4,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-10-17",
+            "category": "6/45",
+            "prize": {
+                "combination": "30-35-24-11-03-19",
+                "amount": 22842729.6,
+                "currency": "PHP"
+            },
+            "winnerCount": 2
+        },
+        {
+            "date": "2022-10-21",
+            "category": "6/45",
+            "prize": {
+                "combination": "11-35-34-40-41-22",
+                "amount": 8910000,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-10-22",
+            "category": "6/55",
+            "prize": {
+                "combination": "44-50-07-52-46-36",
+                "amount": 35410477.8,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-10-23",
+            "category": "6/49",
+            "prize": {
+                "combination": "09-03-19-13-20-29",
+                "amount": 188471378.8,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-10-25",
+            "category": "6/42",
+            "prize": {
+                "combination": "28-10-30-08-01-16",
+                "amount": 24684429,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-11-04",
+            "category": "6/45",
+            "prize": {
+                "combination": "16-13-02-19-11-07",
+                "amount": 21436089.6,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-11-05",
+            "category": "6/42",
+            "prize": {
+                "combination": "31-32-08-25-29-14",
+                "amount": 15395114.8,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-11-05",
+            "category": "6/55",
+            "prize": {
+                "combination": "40-03-34-37-19-15",
+                "amount": 29700000,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-11-08",
+            "category": "6/42",
+            "prize": {
+                "combination": "09-06-29-07-05-19",
+                "amount": 5940000,
+                "currency": "PHP"
+            },
+            "winnerCount": 2
+        },
+        {
+            "date": "2022-11-27",
+            "category": "6/49",
+            "prize": {
+                "combination": "05-42-40-03-25-35",
+                "amount": 63013007.4,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-12-01",
+            "category": "6/42",
+            "prize": {
+                "combination": "24-03-18-20-28-04",
+                "amount": 39292522.8,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        },
+        {
+            "date": "2022-12-11",
+            "category": "6/49",
+            "prize": {
+                "combination": "03-24-07-41-11-16",
+                "amount": 23971499.6,
+                "currency": "PHP"
+            },
+            "winnerCount": 1
+        }
+    ]
+}
