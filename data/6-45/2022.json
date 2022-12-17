@@ -1,0 +1,1196 @@
+{
+    "data": [
+        {
+            "date": "2022-01-03",
+            "combination": "24-08-25-32-12-30",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-01-05",
+            "combination": "27-30-21-19-20-10",
+            "prize": {
+                "amount": 9022177.8,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-01-07",
+            "combination": "44-12-10-26-07-41",
+            "prize": {
+                "amount": 12496283.8,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-01-10",
+            "combination": "30-24-32-33-40-08",
+            "prize": {
+                "amount": 15549735.2,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-01-12",
+            "combination": "16-40-12-45-26-44",
+            "prize": {
+                "amount": 17139845.8,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-01-14",
+            "combination": "24-31-20-17-13-18",
+            "prize": {
+                "amount": 20212102,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-01-17",
+            "combination": "07-22-37-29-34-14",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-01-19",
+            "combination": "12-02-40-08-26-39",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-01-21",
+            "combination": "17-43-34-30-06-10",
+            "prize": {
+                "amount": 9511775.2,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-01-24",
+            "combination": "27-08-09-26-44-18",
+            "prize": {
+                "amount": 12804310,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-01-26",
+            "combination": "07-14-19-34-11-35",
+            "prize": {
+                "amount": 16013109.6,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-01-28",
+            "combination": "04-40-13-31-26-24",
+            "prize": {
+                "amount": 19556985.4,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-01-31",
+            "combination": "38-23-33-07-13-27",
+            "prize": {
+                "amount": 23515413.4,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-02-02",
+            "combination": "05-42-03-20-32-25",
+            "prize": {
+                "amount": 27581813.2,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-02-04",
+            "combination": "14-05-42-45-34-15",
+            "prize": {
+                "amount": 31592295.2,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-02-07",
+            "combination": "38-04-10-08-45-07",
+            "prize": {
+                "amount": 36331026.4,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-02-09",
+            "combination": "32-25-30-43-17-08",
+            "prize": {
+                "amount": 41146898.2,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-02-11",
+            "combination": "43-19-23-30-41-17",
+            "prize": {
+                "amount": 46049467.2,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-02-14",
+            "combination": "27-15-18-22-29-06",
+            "prize": {
+                "amount": 51291565.2,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-02-16",
+            "combination": "06-13-10-15-20-34",
+            "prize": {
+                "amount": 56901761.8,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-02-18",
+            "combination": "31-30-06-04-29-16",
+            "prize": {
+                "amount": 62756225.8,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-02-21",
+            "combination": "21-27-15-41-31-35",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-02-23",
+            "combination": "44-03-34-30-35-22",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-02-25",
+            "combination": "06-22-23-41-36-21",
+            "prize": {
+                "amount": 10304636.6,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-02-28",
+            "combination": "03-12-27-37-18-44",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-03-02",
+            "combination": "02-30-45-42-27-17",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-03-04",
+            "combination": "37-27-20-02-45-08",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-03-07",
+            "combination": "03-20-44-29-07-30",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-03-09",
+            "combination": "33-17-09-24-22-11",
+            "prize": {
+                "amount": 9829344.8,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-03-11",
+            "combination": "22-34-16-05-11-03",
+            "prize": {
+                "amount": 13277158.4,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-03-14",
+            "combination": "41-15-07-33-42-10",
+            "prize": {
+                "amount": 16641928.4,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-03-16",
+            "combination": "43-06-38-08-22-12",
+            "prize": {
+                "amount": 20481433,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-03-18",
+            "combination": "17-07-34-26-22-18",
+            "prize": {
+                "amount": 24251020.2,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-03-21",
+            "combination": "41-38-01-12-19-33",
+            "prize": {
+                "amount": 28629945.4,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-03-23",
+            "combination": "32-08-41-23-10-44",
+            "prize": {
+                "amount": 32977202.6,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-03-25",
+            "combination": "04-44-11-45-43-26",
+            "prize": {
+                "amount": 37316127.6,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-03-28",
+            "combination": "07-25-08-03-12-05",
+            "prize": {
+                "amount": 42282132.8,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-03-30",
+            "combination": "07-34-01-08-21-37",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-04-01",
+            "combination": "10-11-42-02-01-37",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-04-04",
+            "combination": "07-39-28-43-35-29",
+            "prize": {
+                "amount": 10573205.6,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-04-06",
+            "combination": "16-38-05-32-31-25",
+            "prize": {
+                "amount": 14081972.4,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-04-08",
+            "combination": "35-28-05-44-14-27",
+            "prize": {
+                "amount": 17690457,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-04-11",
+            "combination": "08-39-05-16-31-32",
+            "prize": {
+                "amount": 21334438.2,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-04-13",
+            "combination": "34-03-06-15-44-08",
+            "prize": {
+                "amount": 25224716.2,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-04-18",
+            "combination": "17-25-07-05-10-08",
+            "prize": {
+                "amount": 29121777,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-04-20",
+            "combination": "42-05-10-30-27-19",
+            "prize": {
+                "amount": 33070560.4,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-04-22",
+            "combination": "39-37-43-22-31-40",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-04-25",
+            "combination": "36-17-29-28-12-05",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-04-27",
+            "combination": "21-38-42-20-03-40",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-04-29",
+            "combination": "19-44-09-41-07-42",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-05-02",
+            "combination": "09-02-20-26-37-13",
+            "prize": {
+                "amount": 9287719.8,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-05-04",
+            "combination": "42-22-12-25-33-23",
+            "prize": {
+                "amount": 12393992.6,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-05-06",
+            "combination": "42-40-07-20-30-13",
+            "prize": {
+                "amount": 15660042.4,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-05-09",
+            "combination": "21-03-19-01-39-36",
+            "prize": {
+                "amount": 18017557.8,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-05-11",
+            "combination": "36-06-27-45-35-09",
+            "prize": {
+                "amount": 21417572.2,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-05-13",
+            "combination": "22-31-02-20-25-21",
+            "prize": {
+                "amount": 25141931.2,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-05-16",
+            "combination": "13-20-01-08-10-22",
+            "prize": {
+                "amount": 28867242.8,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-05-18",
+            "combination": "26-42-10-45-01-40",
+            "prize": {
+                "amount": 32594206,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-05-20",
+            "combination": "14-32-23-10-01-12",
+            "prize": {
+                "amount": 36651349.8,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-05-23",
+            "combination": "03-36-26-09-05-13",
+            "prize": {
+                "amount": 40979410.2,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-05-25",
+            "combination": "27-04-10-37-39-34",
+            "prize": {
+                "amount": 45338080.4,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-05-27",
+            "combination": "39-42-07-14-45-08",
+            "prize": {
+                "amount": 50164123.2,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-05-30",
+            "combination": "12-21-24-30-40-44",
+            "prize": {
+                "amount": 54968935.4,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-06-01",
+            "combination": "25-34-41-26-28-02",
+            "prize": {
+                "amount": "59,949,398,.20",
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-06-03",
+            "combination": "04-39-32-31-20-15",
+            "prize": {
+                "amount": 65628324,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-06-06",
+            "combination": "31-16-34-25-22-12",
+            "prize": {
+                "amount": 71053447.8,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-06-08",
+            "combination": "35-19-17-24-43-04",
+            "prize": {
+                "amount": 76453550,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-06-10",
+            "combination": "27-29-39-05-09-43",
+            "prize": {
+                "amount": 82612812.8,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-06-13",
+            "combination": "22-18-14-41-32-02",
+            "prize": {
+                "amount": 88734717.2,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-06-15",
+            "combination": "43-29-18-12-33-13",
+            "prize": {
+                "amount": 95264387.6,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-06-17",
+            "combination": "10-12-02-27-03-18",
+            "prize": {
+                "amount": 103269281.6,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-06-20",
+            "combination": "17-32-23-14-25-18",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-06-22",
+            "combination": "07-12-10-34-23-43",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-06-24",
+            "combination": "28-10-16-03-25-13",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-06-27",
+            "combination": "10-44-22-31-33-19",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-06-29",
+            "combination": "39-10-07-42-36-22",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-07-01",
+            "combination": "44-22-20-28-02-01",
+            "prize": {
+                "amount": 12879996,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-07-04",
+            "combination": "04-33-07-40-21-06",
+            "prize": {
+                "amount": 17790627.4,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-07-06",
+            "combination": "29-13-37-35-07-38",
+            "prize": {
+                "amount": 23608475,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-07-08",
+            "combination": "39-11-41-28-13-40",
+            "prize": {
+                "amount": 29666642.6,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-07-11",
+            "combination": "28-08-27-16-20-43",
+            "prize": {
+                "amount": 35674372.6,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-07-13",
+            "combination": "32-30-12-17-23-19",
+            "prize": {
+                "amount": 41866226.2,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-07-15",
+            "combination": "35-02-26-04-37-33",
+            "prize": {
+                "amount": 47631501.2,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-07-18",
+            "combination": "06-17-40-45-39-13",
+            "prize": {
+                "amount": 53920694.2,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-07-20",
+            "combination": "02-24-23-45-38-11",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-07-22",
+            "combination": "15-41-11-30-20-16",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-07-25",
+            "combination": "07-11-12-32-09-40",
+            "prize": {
+                "amount": 12266409,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-07-27",
+            "combination": "18-30-09-10-32-07",
+            "prize": {
+                "amount": 16335797.2,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-07-29",
+            "combination": "41-44-30-08-07-14",
+            "prize": {
+                "amount": 20628339,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-08-01",
+            "combination": "17-13-41-15-26-31",
+            "prize": {
+                "amount": 25203403,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-08-03",
+            "combination": "10-03-45-33-19-37",
+            "prize": {
+                "amount": 29754447.4,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-08-05",
+            "combination": "18-31-28-13-23-30",
+            "prize": {
+                "amount": 33960195.2,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-08-08",
+            "combination": "07-42-39-32-01-29",
+            "prize": {
+                "amount": 38883677.6,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-08-10",
+            "combination": "41-20-19-15-18-27",
+            "prize": {
+                "amount": 43763847.8,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-08-12",
+            "combination": "03-01-19-09-23-28",
+            "prize": {
+                "amount": 49210804.4,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-08-15",
+            "combination": "41-19-15-36-34-37",
+            "prize": {
+                "amount": 54628226,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-08-17",
+            "combination": "15-11-01-44-22-04",
+            "prize": {
+                "amount": 60179312.6,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-08-19",
+            "combination": "19-43-37-36-27-15",
+            "prize": {
+                "amount": 66470034,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-08-22",
+            "combination": "20-33-30-10-08-34",
+            "prize": {
+                "amount": 72205456.8,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-08-24",
+            "combination": "40-18-37-45-30-36",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-08-26",
+            "combination": "02-10-34-28-25-12",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-08-29",
+            "combination": "17-26-21-19-24-38",
+            "prize": {
+                "amount": 11015174.4,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-08-31",
+            "combination": "04-02-27-16-35-40",
+            "prize": {
+                "amount": 14775352.6,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-09-02",
+            "combination": "21-09-38-44-27-42",
+            "prize": {
+                "amount": 18758129.6,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-09-05",
+            "combination": "39-16-36-12-04-10",
+            "prize": {
+                "amount": 22850936.2,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-09-07",
+            "combination": "24-10-11-05-31-04",
+            "prize": {
+                "amount": 26903392.6,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-09-09",
+            "combination": "39-32-12-10-20-29",
+            "prize": {
+                "amount": 31114212,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-09-12",
+            "combination": "19-03-26-16-14-37",
+            "prize": {
+                "amount": 35459700.8,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-09-14",
+            "combination": "41-30-28-10-11-40",
+            "prize": {
+                "amount": 39674710,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-09-16",
+            "combination": "22-12-17-41-42-30",
+            "prize": {
+                "amount": 44417051.8,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-09-19",
+            "combination": "17-41-25-22-18-20",
+            "prize": {
+                "amount": 48993583.6,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-09-21",
+            "combination": "31-39-01-42-20-26",
+            "prize": {
+                "amount": 53777129,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-09-23",
+            "combination": "34-24-07-44-21-38",
+            "prize": {
+                "amount": 58796739.6,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-09-26",
+            "combination": "30-38-43-16-22-25",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-09-28",
+            "combination": "09-25-34-16-31-22",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-09-30",
+            "combination": "32-33-31-16-03-18",
+            "prize": {
+                "amount": 10877621.2,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-10-03",
+            "combination": "45-04-38-44-21-36",
+            "prize": {
+                "amount": 14985585.8,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-10-05",
+            "combination": "23-40-43-09-03-21",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-10-07",
+            "combination": "35-34-21-30-39-04",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-10-10",
+            "combination": "25-06-19-35-03-20",
+            "prize": {
+                "amount": 11036602,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-10-12",
+            "combination": "31-39-06-04-18-10",
+            "prize": {
+                "amount": 14814316.6,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-10-14",
+            "combination": "38-10-01-15-17-08",
+            "prize": {
+                "amount": 18616747.8,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-10-17",
+            "combination": "30-35-24-11-03-19",
+            "prize": {
+                "amount": 22842729.6,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-10-19",
+            "combination": "31-13-25-35-11-37",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-10-21",
+            "combination": "11-35-34-40-41-22",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-10-24",
+            "combination": "44-13-27-04-18-14",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-10-26",
+            "combination": "25-02-35-07-31-41",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-10-28",
+            "combination": "24-07-39-13-11-08",
+            "prize": {
+                "amount": 10392575.8,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-10-31",
+            "combination": "27-13-02-30-42-43",
+            "prize": {
+                "amount": 13812158,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-11-02",
+            "combination": "42-17-03-11-06-07",
+            "prize": {
+                "amount": 17487158.6,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-11-04",
+            "combination": "16-13-02-19-11-07",
+            "prize": {
+                "amount": 21436089.6,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-11-07",
+            "combination": "38-19-03-31-41-10",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-11-09",
+            "combination": "02-34-12-06-26-01",
+            "prize": {
+                "amount": 8910000,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-11-11",
+            "combination": "08-21-26-02-41-01",
+            "prize": {
+                "amount": 10995681.4,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-11-14",
+            "combination": "09-37-40-44-41-05",
+            "prize": {
+                "amount": 14804362.6,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-11-16",
+            "combination": "09-41-38-19-22-13",
+            "prize": {
+                "amount": 18820591.2,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-11-18",
+            "combination": "33-26-01-29-03-23",
+            "prize": {
+                "amount": 23037019.8,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-11-21",
+            "combination": "39-04-42-08-30-22",
+            "prize": {
+                "amount": 27441058,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-11-23",
+            "combination": "41-19-10-32-17-03",
+            "prize": {
+                "amount": 31971747.2,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-11-25",
+            "combination": "22-14-12-33-04-08",
+            "prize": {
+                "amount": 36475903,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-11-28",
+            "combination": "25-19-21-06-42-38",
+            "prize": {
+                "amount": 41447388.4,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-11-30",
+            "combination": "39-26-40-04-11-42",
+            "prize": {
+                "amount": 46379917.6,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-12-02",
+            "combination": "33-43-14-40-31-07",
+            "prize": {
+                "amount": 51930751,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-12-05",
+            "combination": "25-30-35-38-17-45",
+            "prize": {
+                "amount": 57740008.8,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-12-07",
+            "combination": "26-23-11-07-31-43",
+            "prize": {
+                "amount": 63581849.6,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-12-09",
+            "combination": "35-25-01-19-17-14",
+            "prize": {
+                "amount": 69566009.2,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-12-12",
+            "combination": "40-15-09-11-30-21",
+            "prize": {
+                "amount": 76006843,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-12-14",
+            "combination": "07-11-02-17-30-38",
+            "prize": {
+                "amount": 82369895.4,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-12-16",
+            "combination": "30-06-09-21-15-36",
+            "prize": {
+                "amount": 89341826.4,
+                "currency": "PHP"
+            }
+        }
+    ]
+}
