@@ -3,8 +3,6 @@
 ![contributors](https://badgen.net/github/contributors/opendata-ph/pcso-lotto)
 ![stars](https://badgen.net/github/stars/opendata-ph/pcso-lotto)
 ![stars](https://badgen.net/github/forks/opendata-ph/pcso-lotto)
-![commits](https://badgen.net/github/commits/opendata-ph/pcso-lotto)
-![last commit](https://badgen.net/github/last-commit/opendata-ph/pcso-lotto)
 [![License](https://badgen.net/github/license/opendata-ph/pcso-lotto)](https://github.com/opendata-ph/pcso-lotto/blob/main/LICENSE)
 
 A data collection of The Philippine Charity Sweepstakes Office (PCSO) lotto results.
