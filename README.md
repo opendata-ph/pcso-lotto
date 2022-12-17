@@ -21,7 +21,7 @@ PCSO is conducting five (5) major jackpot-bearing-games, four (4) major digit ga
 
 ### Structure
 
-- The lotto results data will be presented in the following structure:
+- The lotto result data will be presented in the following structure:
 
     ```json
     {
@@ -139,7 +139,7 @@ Pull requests and stars are always welcome. For additional data requests, please
     ```
     $ git commit -m <message>
     $ git push origin <branch-name>
-```
+    ```
 
 7. Issue a pull request from forked repo to this repo by clicking on New Pull Request.
 
