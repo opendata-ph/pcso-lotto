@@ -1183,6 +1183,46 @@
                 "amount": 72906198,
                 "currency": "PHP"
             }
+        },
+        {
+            "date": "2022-12-17",
+            "combination": "33-38-29-08-13-50",
+            "prize": {
+                "amount": 78477700.4,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-12-19",
+            "combination": "24-48-08-38-45-11",
+            "prize": {
+                "amount": 83661736.8,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-12-21",
+            "combination": "07-14-13-54-30-19",
+            "prize": {
+                "amount": 89533642.4,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-12-24",
+            "combination": "41-47-09-51-21-43",
+            "prize": {
+                "amount": 93531352.6,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-12-26",
+            "combination": "05-21-20-10-29-50",
+            "prize": {
+                "amount": 100532794,
+                "currency": "PHP"
+            }
         }
     ]
 }
