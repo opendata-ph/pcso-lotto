@@ -1223,6 +1223,22 @@
                 "amount": 100532794,
                 "currency": "PHP"
             }
+        },
+        {
+            "date": "2022-12-28",
+            "combination": "30-25-20-41-17-42",
+            "prize": {
+                "amount": 108934440.00,
+                "currency": "PHP"
+            }
+        },
+        {
+            "date": "2022-12-31",
+            "combination": "05-35-13-39-27-09",
+            "prize": {
+                "amount": 15262757.60,
+                "currency": "PHP"
+            }
         }
     ]
 }
